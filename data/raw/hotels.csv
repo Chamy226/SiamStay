@@ -1,0 +1,801 @@
+hotel_id,city,district,star_rating,avg_price_thb
+1,Bangkok,Chatuchak,4,5416
+2,Bangkok,Riverside,3,3588
+3,Bangkok,Ratchadaphisek,5,11467
+4,Bangkok,Ari,4,4529
+5,Bangkok,Silom,2,1088
+6,Bangkok,Silom,5,24822
+7,Bangkok,Thonglor,4,7545
+8,Bangkok,Silom,4,4023
+9,Bangkok,Ari,2,1674
+10,Bangkok,Phra Nakhon,3,1959
+11,Bangkok,Sukhumvit,3,2291
+12,Bangkok,Sukhumvit,5,27847
+13,Bangkok,Phra Nakhon,4,6870
+14,Bangkok,Ari,4,7011
+15,Bangkok,Silom,3,2576
+16,Bangkok,Ratchadaphisek,3,3002
+17,Bangkok,Ratchadaphisek,4,4201
+18,Bangkok,Ari,2,1276
+19,Bangkok,Thonglor,4,4629
+20,Bangkok,Siam,4,4727
+21,Bangkok,Sukhumvit,4,7841
+22,Bangkok,Ari,3,2712
+23,Bangkok,Siam,5,11628
+24,Bangkok,Thonglor,5,15958
+25,Bangkok,Ratchadaphisek,4,9315
+26,Bangkok,Sukhumvit,3,2118
+27,Bangkok,Ari,3,1800
+28,Bangkok,Siam,2,1004
+29,Bangkok,Ratchadaphisek,3,3637
+30,Bangkok,Siam,4,8520
+31,Bangkok,Thonglor,4,7253
+32,Bangkok,Ari,5,12718
+33,Bangkok,Riverside,3,2893
+34,Bangkok,Thonglor,3,3416
+35,Bangkok,Chatuchak,3,2910
+36,Bangkok,Ari,3,3442
+37,Bangkok,Chatuchak,2,1120
+38,Bangkok,Phra Nakhon,3,3337
+39,Bangkok,Sathorn,3,2025
+40,Bangkok,Ari,4,9012
+41,Bangkok,Sukhumvit,3,3857
+42,Bangkok,Chatuchak,4,3878
+43,Bangkok,Ari,4,5745
+44,Bangkok,Sathorn,3,2668
+45,Bangkok,Sukhumvit,4,9100
+46,Bangkok,Ratchadaphisek,4,8134
+47,Bangkok,Riverside,3,3198
+48,Bangkok,Thonglor,3,2050
+49,Bangkok,Silom,4,6382
+50,Bangkok,Phra Nakhon,2,1217
+51,Bangkok,Silom,3,2292
+52,Bangkok,Silom,2,1555
+53,Bangkok,Ratchadaphisek,4,8987
+54,Bangkok,Phra Nakhon,4,9354
+55,Bangkok,Siam,4,5082
+56,Bangkok,Sathorn,4,5653
+57,Bangkok,Chatuchak,3,3712
+58,Bangkok,Ratchadaphisek,4,7396
+59,Bangkok,Riverside,2,1517
+60,Bangkok,Ari,2,1274
+61,Bangkok,Chatuchak,4,4187
+62,Bangkok,Chatuchak,3,3188
+63,Bangkok,Chatuchak,4,6758
+64,Bangkok,Ari,4,9159
+65,Bangkok,Silom,4,6241
+66,Bangkok,Phra Nakhon,4,8171
+67,Bangkok,Ratchadaphisek,4,7714
+68,Bangkok,Chatuchak,3,3669
+69,Bangkok,Sukhumvit,2,1367
+70,Bangkok,Siam,3,1687
+71,Bangkok,Chatuchak,3,2675
+72,Bangkok,Sukhumvit,3,2732
+73,Bangkok,Phra Nakhon,5,13231
+74,Bangkok,Riverside,3,3962
+75,Bangkok,Chatuchak,2,1684
+76,Bangkok,Ratchadaphisek,3,3830
+77,Bangkok,Riverside,3,3132
+78,Bangkok,Riverside,4,7293
+79,Bangkok,Thonglor,4,5685
+80,Bangkok,Ari,4,6974
+81,Bangkok,Sathorn,4,5896
+82,Bangkok,Thonglor,3,1703
+83,Bangkok,Phra Nakhon,4,6999
+84,Bangkok,Sathorn,3,2844
+85,Bangkok,Silom,2,910
+86,Bangkok,Riverside,2,1195
+87,Bangkok,Riverside,4,5769
+88,Bangkok,Silom,3,3456
+89,Bangkok,Silom,3,2447
+90,Bangkok,Thonglor,3,2391
+91,Bangkok,Riverside,3,1787
+92,Bangkok,Phra Nakhon,4,3812
+93,Bangkok,Siam,3,3359
+94,Bangkok,Sukhumvit,3,2138
+95,Bangkok,Chatuchak,3,2772
+96,Bangkok,Ratchadaphisek,4,7049
+97,Bangkok,Siam,3,2474
+98,Bangkok,Siam,2,1342
+99,Bangkok,Silom,2,1864
+100,Bangkok,Ari,5,18729
+101,Bangkok,Sathorn,5,10093
+102,Bangkok,Siam,4,6300
+103,Bangkok,Sukhumvit,3,1975
+104,Bangkok,Sathorn,5,9100
+105,Bangkok,Phra Nakhon,4,4194
+106,Bangkok,Thonglor,4,5088
+107,Bangkok,Sathorn,3,3235
+108,Bangkok,Silom,3,3720
+109,Bangkok,Siam,2,1086
+110,Bangkok,Siam,5,11697
+111,Bangkok,Chatuchak,3,2401
+112,Bangkok,Ratchadaphisek,3,2376
+113,Bangkok,Phra Nakhon,3,3464
+114,Bangkok,Phra Nakhon,4,4282
+115,Bangkok,Phra Nakhon,3,3098
+116,Bangkok,Phra Nakhon,5,16190
+117,Bangkok,Sukhumvit,4,7074
+118,Bangkok,Silom,4,6043
+119,Bangkok,Riverside,3,3854
+120,Bangkok,Ari,4,4958
+121,Bangkok,Sukhumvit,4,6130
+122,Bangkok,Ratchadaphisek,4,8390
+123,Bangkok,Thonglor,2,1619
+124,Bangkok,Ari,3,2609
+125,Bangkok,Silom,2,1386
+126,Bangkok,Siam,3,1868
+127,Bangkok,Silom,3,2729
+128,Bangkok,Ratchadaphisek,2,951
+129,Bangkok,Ari,2,1233
+130,Bangkok,Chatuchak,4,6701
+131,Bangkok,Siam,3,3388
+132,Bangkok,Riverside,5,26286
+133,Bangkok,Sathorn,4,8498
+134,Bangkok,Chatuchak,3,1936
+135,Bangkok,Chatuchak,4,3848
+136,Bangkok,Siam,2,885
+137,Bangkok,Phra Nakhon,5,21278
+138,Bangkok,Silom,3,2623
+139,Bangkok,Ratchadaphisek,4,5019
+140,Bangkok,Silom,2,1602
+141,Chiang Mai,Nimman,3,1835
+142,Chiang Mai,Hang Dong,3,1493
+143,Chiang Mai,Old City,5,15409
+144,Chiang Mai,Night Bazaar,4,5309
+145,Chiang Mai,Night Bazaar,3,1301
+146,Chiang Mai,Nimman,3,1505
+147,Chiang Mai,Riverside,3,2650
+148,Chiang Mai,Hang Dong,3,1421
+149,Chiang Mai,Hang Dong,3,2147
+150,Chiang Mai,Nimman,2,1160
+151,Chiang Mai,Night Bazaar,4,4831
+152,Chiang Mai,Nimman,5,16904
+153,Chiang Mai,Nimman,2,850
+154,Chiang Mai,Old City,4,3846
+155,Chiang Mai,Hang Dong,2,627
+156,Chiang Mai,Hang Dong,4,2931
+157,Chiang Mai,Riverside,3,1205
+158,Chiang Mai,Night Bazaar,4,3980
+159,Chiang Mai,Night Bazaar,4,3789
+160,Chiang Mai,Night Bazaar,4,4487
+161,Chiang Mai,Night Bazaar,2,895
+162,Chiang Mai,Night Bazaar,5,18447
+163,Chiang Mai,Old City,3,1796
+164,Chiang Mai,Old City,2,869
+165,Chiang Mai,Hang Dong,4,3377
+166,Chiang Mai,Night Bazaar,3,1347
+167,Chiang Mai,Hang Dong,4,6066
+168,Chiang Mai,Old City,4,3230
+169,Chiang Mai,Night Bazaar,3,1814
+170,Chiang Mai,Nimman,5,20412
+171,Chiang Mai,Nimman,3,1471
+172,Chiang Mai,Old City,3,2642
+173,Chiang Mai,Old City,3,1827
+174,Chiang Mai,Hang Dong,5,8672
+175,Chiang Mai,Nimman,3,1202
+176,Chiang Mai,Riverside,2,1286
+177,Chiang Mai,Night Bazaar,3,1318
+178,Chiang Mai,Night Bazaar,5,20575
+179,Chiang Mai,Night Bazaar,5,14106
+180,Chiang Mai,Old City,4,5349
+181,Chiang Mai,Hang Dong,5,18655
+182,Chiang Mai,Hang Dong,5,8459
+183,Chiang Mai,Riverside,3,2548
+184,Chiang Mai,Night Bazaar,3,1811
+185,Chiang Mai,Old City,4,6086
+186,Chiang Mai,Hang Dong,4,6044
+187,Chiang Mai,Nimman,3,2325
+188,Chiang Mai,Old City,2,1019
+189,Chiang Mai,Nimman,4,6468
+190,Chiang Mai,Riverside,3,1294
+191,Phuket,Kamala,5,24520
+192,Phuket,Rawai,3,1977
+193,Phuket,Rawai,2,1653
+194,Phuket,Kata,4,9258
+195,Phuket,Phuket Town,3,2372
+196,Phuket,Karon,3,3183
+197,Phuket,Kamala,4,5841
+198,Phuket,Patong,5,26682
+199,Phuket,Phuket Town,3,3237
+200,Phuket,Kata,3,2550
+201,Phuket,Patong,4,9578
+202,Phuket,Karon,5,18689
+203,Phuket,Patong,3,3858
+204,Phuket,Patong,2,1419
+205,Phuket,Kamala,2,1825
+206,Phuket,Karon,3,3096
+207,Phuket,Phuket Town,2,1096
+208,Phuket,Kata,4,8121
+209,Phuket,Rawai,2,1395
+210,Phuket,Karon,3,3660
+211,Phuket,Kamala,4,5940
+212,Phuket,Kamala,4,8188
+213,Phuket,Karon,3,2024
+214,Phuket,Phuket Town,4,7907
+215,Phuket,Karon,4,7349
+216,Phuket,Kata,4,7539
+217,Phuket,Rawai,2,1024
+218,Phuket,Phuket Town,2,2054
+219,Phuket,Patong,5,22863
+220,Phuket,Karon,3,4339
+221,Phuket,Phuket Town,3,2573
+222,Phuket,Rawai,3,3728
+223,Phuket,Phuket Town,4,5781
+224,Phuket,Kamala,5,19930
+225,Phuket,Kamala,3,3740
+226,Phuket,Kata,5,13638
+227,Phuket,Phuket Town,2,1335
+228,Phuket,Karon,4,8543
+229,Phuket,Rawai,4,8671
+230,Phuket,Karon,2,1373
+231,Phuket,Kamala,2,1948
+232,Phuket,Rawai,3,2217
+233,Phuket,Kamala,5,22995
+234,Phuket,Phuket Town,4,8611
+235,Phuket,Karon,5,17184
+236,Phuket,Kamala,4,5223
+237,Phuket,Karon,3,2858
+238,Phuket,Karon,4,8430
+239,Phuket,Karon,2,1454
+240,Phuket,Patong,2,1217
+241,Phuket,Patong,4,9256
+242,Phuket,Rawai,4,6079
+243,Phuket,Kamala,3,2171
+244,Phuket,Kamala,3,3694
+245,Phuket,Patong,4,5954
+246,Phuket,Kata,5,29673
+247,Phuket,Kata,4,9116
+248,Phuket,Rawai,3,2251
+249,Phuket,Phuket Town,3,4217
+250,Phuket,Kata,3,3740
+251,Phuket,Rawai,4,9800
+252,Phuket,Patong,5,13636
+253,Phuket,Kata,3,4043
+254,Phuket,Patong,3,3777
+255,Phuket,Kata,3,2550
+256,Phuket,Rawai,4,5803
+257,Phuket,Phuket Town,4,9808
+258,Phuket,Kata,2,1772
+259,Phuket,Kamala,2,2024
+260,Phuket,Rawai,4,7477
+261,Pattaya,Pratumnak,2,1334
+262,Pattaya,Naklua,4,5698
+263,Pattaya,Jomtien,3,2754
+264,Pattaya,Naklua,2,941
+265,Pattaya,Jomtien,5,8288
+266,Pattaya,Pratumnak,3,2702
+267,Pattaya,Jomtien,3,2331
+268,Pattaya,Naklua,3,2183
+269,Pattaya,Central Pattaya,2,1142
+270,Pattaya,Jomtien,2,1138
+271,Pattaya,Pratumnak,2,1275
+272,Pattaya,Naklua,3,3159
+273,Pattaya,Jomtien,2,988
+274,Pattaya,Pratumnak,4,3800
+275,Pattaya,Pratumnak,4,6936
+276,Pattaya,Jomtien,3,1973
+277,Pattaya,Naklua,3,2961
+278,Pattaya,Jomtien,3,2678
+279,Pattaya,Naklua,5,14564
+280,Pattaya,Jomtien,5,20700
+281,Pattaya,Central Pattaya,2,1368
+282,Pattaya,Pratumnak,3,2113
+283,Pattaya,Pratumnak,3,3144
+284,Pattaya,Pratumnak,3,1951
+285,Pattaya,Pratumnak,4,7351
+286,Pattaya,Naklua,3,1398
+287,Pattaya,Pratumnak,2,1527
+288,Pattaya,Pratumnak,3,1795
+289,Pattaya,Jomtien,3,1556
+290,Pattaya,Jomtien,2,1212
+291,Pattaya,Central Pattaya,4,6247
+292,Pattaya,Naklua,2,1195
+293,Pattaya,Jomtien,5,17730
+294,Pattaya,Jomtien,2,939
+295,Pattaya,Naklua,4,5133
+296,Pattaya,Jomtien,5,13234
+297,Pattaya,Central Pattaya,5,11972
+298,Pattaya,Pratumnak,4,6048
+299,Pattaya,Pratumnak,4,4333
+300,Pattaya,Central Pattaya,4,5644
+301,Krabi,Ao Nang,4,5512
+302,Krabi,Railay,2,839
+303,Krabi,Krabi Town,3,2599
+304,Krabi,Krabi Town,3,1895
+305,Krabi,Ao Nang,5,13073
+306,Krabi,Krabi Town,3,3139
+307,Krabi,Ao Nang,3,2930
+308,Krabi,Railay,4,4134
+309,Krabi,Krabi Town,3,2591
+310,Krabi,Ao Nang,2,1086
+311,Krabi,Ao Nang,3,3680
+312,Krabi,Railay,3,1658
+313,Krabi,Railay,3,2482
+314,Krabi,Krabi Town,3,3531
+315,Krabi,Krabi Town,3,2237
+316,Krabi,Ao Nang,3,2991
+317,Krabi,Ao Nang,3,3664
+318,Krabi,Krabi Town,4,6737
+319,Krabi,Ao Nang,3,2148
+320,Krabi,Krabi Town,5,17785
+321,Krabi,Railay,5,12860
+322,Krabi,Ao Nang,3,2595
+323,Krabi,Krabi Town,3,3163
+324,Krabi,Ao Nang,3,2866
+325,Krabi,Railay,4,4356
+326,Krabi,Railay,4,6285
+327,Krabi,Railay,4,4840
+328,Krabi,Krabi Town,3,2249
+329,Krabi,Railay,4,7880
+330,Krabi,Krabi Town,3,1602
+331,Koh Samui,Mae Nam,4,4356
+332,Koh Samui,Bophut,3,2003
+333,Koh Samui,Chaweng,4,4898
+334,Koh Samui,Bophut,5,26191
+335,Koh Samui,Mae Nam,2,1102
+336,Koh Samui,Lamai,4,6314
+337,Koh Samui,Lamai,2,1315
+338,Koh Samui,Lamai,4,5374
+339,Koh Samui,Chaweng,2,1211
+340,Koh Samui,Bophut,5,18828
+341,Koh Samui,Lamai,2,1876
+342,Koh Samui,Mae Nam,5,17776
+343,Koh Samui,Mae Nam,4,8695
+344,Koh Samui,Mae Nam,4,10180
+345,Koh Samui,Lamai,4,10380
+346,Koh Samui,Lamai,4,6804
+347,Koh Samui,Bophut,5,15703
+348,Koh Samui,Mae Nam,3,3805
+349,Koh Samui,Lamai,4,5304
+350,Koh Samui,Mae Nam,2,1225
+351,Koh Samui,Chaweng,4,5964
+352,Koh Samui,Mae Nam,3,3424
+353,Koh Samui,Chaweng,4,10243
+354,Koh Samui,Chaweng,4,6350
+355,Koh Samui,Bophut,3,2732
+356,Koh Samui,Chaweng,3,2660
+357,Koh Samui,Chaweng,4,7566
+358,Koh Samui,Chaweng,4,5695
+359,Koh Samui,Lamai,3,2149
+360,Koh Samui,Mae Nam,4,9814
+361,Koh Samui,Chaweng,5,12512
+362,Koh Samui,Bophut,2,1366
+363,Koh Samui,Mae Nam,2,1855
+364,Koh Samui,Chaweng,2,1370
+365,Koh Samui,Chaweng,4,4373
+366,Koh Samui,Mae Nam,3,2092
+367,Hua Hin,Khao Tao,4,4727
+368,Hua Hin,Khao Takiab,4,6215
+369,Hua Hin,Khao Tao,3,2470
+370,Hua Hin,Hua Hin Beach,5,8880
+371,Hua Hin,Khao Takiab,4,5537
+372,Hua Hin,Khao Tao,3,2660
+373,Hua Hin,Hua Hin Beach,3,2747
+374,Hua Hin,Khao Tao,3,2204
+375,Hua Hin,Khao Takiab,3,1941
+376,Hua Hin,Khao Tao,2,1271
+377,Hua Hin,Khao Takiab,5,21308
+378,Hua Hin,Khao Takiab,3,2166
+379,Hua Hin,Hua Hin Beach,3,2380
+380,Hua Hin,Hua Hin Beach,4,6592
+381,Hua Hin,Khao Tao,4,6714
+382,Hua Hin,Hua Hin Beach,5,25892
+383,Hua Hin,Hua Hin Beach,4,7294
+384,Hua Hin,Hua Hin Beach,3,2224
+385,Hua Hin,Hua Hin Beach,3,1859
+386,Hua Hin,Khao Tao,5,8888
+387,Hua Hin,Khao Takiab,4,3644
+388,Hua Hin,Khao Tao,5,21026
+389,Hua Hin,Hua Hin Beach,2,1570
+390,Hua Hin,Khao Takiab,5,26372
+391,Singapore,Chinatown,4,6955
+392,Singapore,Orchard,2,2661
+393,Singapore,Bugis,4,6991
+394,Singapore,Bugis,4,13549
+395,Singapore,Bugis,2,2720
+396,Singapore,Marina Bay,3,4028
+397,Singapore,Orchard,4,10686
+398,Singapore,Sentosa,3,4092
+399,Singapore,Orchard,3,5707
+400,Singapore,Sentosa,3,3339
+401,Singapore,Chinatown,3,2502
+402,Singapore,Chinatown,5,35720
+403,Singapore,Bugis,4,8697
+404,Singapore,Sentosa,2,1815
+405,Singapore,Marina Bay,5,27203
+406,Singapore,Marina Bay,5,29210
+407,Singapore,Sentosa,3,5654
+408,Singapore,Chinatown,4,8596
+409,Singapore,Orchard,2,2199
+410,Singapore,Chinatown,5,21891
+411,Singapore,Sentosa,4,7629
+412,Singapore,Bugis,4,6309
+413,Singapore,Chinatown,2,1779
+414,Singapore,Orchard,5,17943
+415,Singapore,Orchard,2,2409
+416,Singapore,Chinatown,3,2931
+417,Singapore,Orchard,2,1491
+418,Singapore,Chinatown,4,9264
+419,Singapore,Sentosa,3,4659
+420,Singapore,Marina Bay,5,38693
+421,Singapore,Marina Bay,4,8513
+422,Singapore,Orchard,2,1254
+423,Singapore,Bugis,2,2167
+424,Singapore,Sentosa,2,2438
+425,Singapore,Marina Bay,4,12057
+426,Singapore,Bugis,4,12584
+427,Singapore,Chinatown,3,2804
+428,Singapore,Chinatown,4,12501
+429,Singapore,Bugis,2,2542
+430,Singapore,Marina Bay,4,9471
+431,Singapore,Orchard,5,23453
+432,Singapore,Chinatown,4,9466
+433,Singapore,Marina Bay,4,9379
+434,Singapore,Sentosa,4,7992
+435,Singapore,Orchard,2,1280
+436,Singapore,Marina Bay,3,5523
+437,Singapore,Orchard,2,1882
+438,Singapore,Chinatown,3,2837
+439,Singapore,Marina Bay,4,9869
+440,Singapore,Marina Bay,4,6087
+441,Singapore,Bugis,5,32868
+442,Singapore,Orchard,3,3094
+443,Singapore,Orchard,4,8355
+444,Singapore,Marina Bay,3,3312
+445,Singapore,Orchard,3,4270
+446,Singapore,Orchard,4,8342
+447,Singapore,Sentosa,5,41264
+448,Singapore,Orchard,4,8993
+449,Singapore,Bugis,2,2482
+450,Singapore,Bugis,4,5699
+451,Bali,Seminyak,2,1199
+452,Bali,Seminyak,5,18549
+453,Bali,Seminyak,4,3023
+454,Bali,Canggu,3,2089
+455,Bali,Seminyak,2,966
+456,Bali,Sanur,3,1630
+457,Bali,Uluwatu,5,21817
+458,Bali,Uluwatu,3,1462
+459,Bali,Canggu,4,5844
+460,Bali,Sanur,4,3430
+461,Bali,Seminyak,4,4747
+462,Bali,Kuta,2,807
+463,Bali,Ubud,5,7772
+464,Bali,Sanur,3,2104
+465,Bali,Canggu,4,3180
+466,Bali,Uluwatu,4,6829
+467,Bali,Ubud,4,6870
+468,Bali,Sanur,5,19301
+469,Bali,Kuta,2,901
+470,Bali,Kuta,3,2214
+471,Bali,Sanur,3,1790
+472,Bali,Kuta,3,2963
+473,Bali,Kuta,2,1284
+474,Bali,Canggu,2,1275
+475,Bali,Seminyak,3,2107
+476,Bali,Ubud,3,2432
+477,Bali,Ubud,3,1662
+478,Bali,Seminyak,4,7120
+479,Bali,Sanur,4,6313
+480,Bali,Canggu,3,1334
+481,Bali,Kuta,3,2296
+482,Bali,Kuta,3,2453
+483,Bali,Kuta,4,4734
+484,Bali,Canggu,3,2689
+485,Bali,Sanur,2,943
+486,Bali,Sanur,3,2691
+487,Bali,Kuta,3,2566
+488,Bali,Ubud,3,2640
+489,Bali,Kuta,4,3992
+490,Bali,Canggu,4,7065
+491,Bali,Kuta,4,4488
+492,Bali,Canggu,4,4081
+493,Bali,Canggu,4,4342
+494,Bali,Ubud,3,1930
+495,Bali,Kuta,4,7069
+496,Bali,Kuta,3,1404
+497,Bali,Seminyak,3,2216
+498,Bali,Seminyak,4,4145
+499,Bali,Uluwatu,3,2161
+500,Bali,Kuta,3,2984
+501,Bali,Ubud,4,6598
+502,Bali,Canggu,5,18975
+503,Bali,Uluwatu,5,18627
+504,Bali,Ubud,3,2217
+505,Bali,Uluwatu,3,2206
+506,Bali,Sanur,4,7070
+507,Bali,Canggu,3,1599
+508,Bali,Uluwatu,4,3260
+509,Bali,Seminyak,3,3026
+510,Bali,Sanur,2,1165
+511,Bali,Kuta,2,1318
+512,Bali,Sanur,4,3257
+513,Bali,Canggu,2,1377
+514,Bali,Seminyak,3,3002
+515,Bali,Seminyak,3,2365
+516,Bali,Uluwatu,3,2926
+517,Bali,Canggu,3,2887
+518,Bali,Seminyak,4,3166
+519,Bali,Uluwatu,2,908
+520,Bali,Sanur,4,3464
+521,Kuala Lumpur,KLCC,5,11852
+522,Kuala Lumpur,KLCC,3,1841
+523,Kuala Lumpur,Bukit Bintang,3,2335
+524,Kuala Lumpur,Bangsar,4,5960
+525,Kuala Lumpur,KLCC,2,1562
+526,Kuala Lumpur,Bangsar,3,3183
+527,Kuala Lumpur,KLCC,5,24996
+528,Kuala Lumpur,Chinatown,5,22583
+529,Kuala Lumpur,KLCC,4,3438
+530,Kuala Lumpur,Bukit Bintang,3,2770
+531,Kuala Lumpur,Bangsar,4,5302
+532,Kuala Lumpur,KLCC,4,3891
+533,Kuala Lumpur,Chinatown,3,1865
+534,Kuala Lumpur,Bangsar,4,4341
+535,Kuala Lumpur,Bangsar,2,788
+536,Kuala Lumpur,Bangsar,3,3008
+537,Kuala Lumpur,Bukit Bintang,3,3126
+538,Kuala Lumpur,Chinatown,3,3283
+539,Kuala Lumpur,Bangsar,3,3344
+540,Kuala Lumpur,KLCC,4,6018
+541,Kuala Lumpur,Bukit Bintang,5,9708
+542,Kuala Lumpur,Bangsar,4,5079
+543,Kuala Lumpur,KLCC,4,5651
+544,Kuala Lumpur,Chinatown,5,11939
+545,Kuala Lumpur,Bangsar,2,1294
+546,Kuala Lumpur,Chinatown,3,2884
+547,Kuala Lumpur,KLCC,3,3242
+548,Kuala Lumpur,KLCC,2,1561
+549,Kuala Lumpur,KLCC,4,3782
+550,Kuala Lumpur,Bukit Bintang,3,1695
+551,Kuala Lumpur,Bangsar,3,3184
+552,Kuala Lumpur,Bangsar,3,1877
+553,Kuala Lumpur,KLCC,3,1576
+554,Kuala Lumpur,KLCC,5,20041
+555,Kuala Lumpur,Bangsar,2,1377
+556,Kuala Lumpur,Bukit Bintang,3,1571
+557,Kuala Lumpur,Chinatown,3,3301
+558,Kuala Lumpur,KLCC,3,2443
+559,Kuala Lumpur,Chinatown,4,5296
+560,Kuala Lumpur,Bukit Bintang,3,2588
+561,Kuala Lumpur,Chinatown,2,1283
+562,Kuala Lumpur,KLCC,3,1664
+563,Kuala Lumpur,Chinatown,4,7062
+564,Kuala Lumpur,Bukit Bintang,4,3825
+565,Kuala Lumpur,KLCC,4,6026
+566,Kuala Lumpur,Chinatown,4,7907
+567,Kuala Lumpur,Bukit Bintang,4,7761
+568,Kuala Lumpur,Bukit Bintang,2,1122
+569,Kuala Lumpur,Bukit Bintang,3,2577
+570,Kuala Lumpur,KLCC,3,2414
+571,Penang,George Town,3,1707
+572,Penang,Batu Ferringhi,4,5369
+573,Penang,George Town,3,1731
+574,Penang,Batu Ferringhi,4,4025
+575,Penang,Batu Ferringhi,5,14102
+576,Penang,George Town,3,1818
+577,Penang,Batu Ferringhi,5,16880
+578,Penang,Batu Ferringhi,4,7607
+579,Penang,Batu Ferringhi,5,21880
+580,Penang,George Town,3,2032
+581,Penang,George Town,3,1610
+582,Penang,George Town,3,2041
+583,Penang,Batu Ferringhi,2,853
+584,Penang,Batu Ferringhi,3,2050
+585,Penang,Batu Ferringhi,5,15156
+586,Penang,George Town,4,6063
+587,Penang,Batu Ferringhi,3,1740
+588,Penang,George Town,3,2379
+589,Penang,Batu Ferringhi,3,2336
+590,Penang,George Town,2,1010
+591,Penang,Batu Ferringhi,5,12379
+592,Penang,Batu Ferringhi,3,2784
+593,Penang,George Town,3,3064
+594,Penang,George Town,4,4296
+595,Ho Chi Minh City,Thao Dien,2,563
+596,Ho Chi Minh City,District 1,3,2563
+597,Ho Chi Minh City,District 3,4,5230
+598,Ho Chi Minh City,Thao Dien,4,2716
+599,Ho Chi Minh City,District 3,5,17842
+600,Ho Chi Minh City,District 3,4,5175
+601,Ho Chi Minh City,District 3,3,2341
+602,Ho Chi Minh City,District 1,4,6258
+603,Ho Chi Minh City,Thao Dien,5,8299
+604,Ho Chi Minh City,District 1,4,3562
+605,Ho Chi Minh City,District 1,5,16750
+606,Ho Chi Minh City,District 1,4,4427
+607,Ho Chi Minh City,Thao Dien,5,8651
+608,Ho Chi Minh City,District 1,2,699
+609,Ho Chi Minh City,Thao Dien,4,5044
+610,Ho Chi Minh City,Thao Dien,3,1316
+611,Ho Chi Minh City,Thao Dien,4,4532
+612,Ho Chi Minh City,Thao Dien,4,2939
+613,Ho Chi Minh City,Thao Dien,5,14400
+614,Ho Chi Minh City,Thao Dien,5,10891
+615,Ho Chi Minh City,District 1,3,2084
+616,Ho Chi Minh City,Thao Dien,4,6003
+617,Ho Chi Minh City,District 3,4,3606
+618,Ho Chi Minh City,District 3,3,1717
+619,Ho Chi Minh City,Thao Dien,2,1236
+620,Ho Chi Minh City,Thao Dien,2,711
+621,Ho Chi Minh City,Thao Dien,4,4136
+622,Ho Chi Minh City,District 3,3,2297
+623,Ho Chi Minh City,District 3,5,12183
+624,Ho Chi Minh City,District 3,3,2448
+625,Ho Chi Minh City,District 3,5,9771
+626,Ho Chi Minh City,District 3,3,1420
+627,Ho Chi Minh City,District 1,4,2889
+628,Ho Chi Minh City,District 1,2,1066
+629,Ho Chi Minh City,Thao Dien,4,4638
+630,Ho Chi Minh City,District 3,4,5239
+631,Ho Chi Minh City,Thao Dien,5,8593
+632,Ho Chi Minh City,District 3,4,5665
+633,Ho Chi Minh City,District 1,2,620
+634,Ho Chi Minh City,District 1,3,1605
+635,Ho Chi Minh City,District 1,2,1162
+636,Ho Chi Minh City,Thao Dien,2,757
+637,Ho Chi Minh City,District 1,4,5600
+638,Ho Chi Minh City,District 3,4,3926
+639,Ho Chi Minh City,Thao Dien,4,5007
+640,Ho Chi Minh City,Thao Dien,5,17840
+641,Hanoi,Hoan Kiem,4,2532
+642,Hanoi,Hoan Kiem,4,4485
+643,Hanoi,Hoan Kiem,2,785
+644,Hanoi,Hoan Kiem,3,2483
+645,Hanoi,Hoan Kiem,4,2935
+646,Hanoi,Old Quarter,5,7750
+647,Hanoi,Tay Ho,2,792
+648,Hanoi,Old Quarter,3,1478
+649,Hanoi,Old Quarter,4,4848
+650,Hanoi,Hoan Kiem,2,1085
+651,Hanoi,Tay Ho,3,1847
+652,Hanoi,Old Quarter,5,17223
+653,Hanoi,Tay Ho,4,4818
+654,Hanoi,Tay Ho,3,2022
+655,Hanoi,Old Quarter,5,7472
+656,Hanoi,Hoan Kiem,3,1255
+657,Hanoi,Hoan Kiem,5,12037
+658,Hanoi,Old Quarter,3,1697
+659,Hanoi,Tay Ho,4,4702
+660,Hanoi,Old Quarter,3,2358
+661,Hanoi,Tay Ho,3,1575
+662,Hanoi,Old Quarter,5,7419
+663,Hanoi,Hoan Kiem,3,1720
+664,Hanoi,Hoan Kiem,2,963
+665,Hanoi,Old Quarter,3,1365
+666,Hanoi,Tay Ho,4,3031
+667,Hanoi,Old Quarter,4,2986
+668,Hanoi,Hoan Kiem,5,16493
+669,Hanoi,Tay Ho,3,2236
+670,Hanoi,Hoan Kiem,3,2438
+671,Hanoi,Tay Ho,2,1030
+672,Hanoi,Hoan Kiem,4,5233
+673,Hanoi,Hoan Kiem,5,16682
+674,Hanoi,Old Quarter,4,4582
+675,Hanoi,Old Quarter,4,4366
+676,Hanoi,Old Quarter,3,1135
+677,Da Nang,My Khe,5,19272
+678,Da Nang,Son Tra,3,1590
+679,Da Nang,My Khe,2,647
+680,Da Nang,My Khe,3,1963
+681,Da Nang,My Khe,2,1239
+682,Da Nang,My Khe,3,2694
+683,Da Nang,Son Tra,2,1104
+684,Da Nang,My Khe,3,1533
+685,Da Nang,Son Tra,4,5370
+686,Da Nang,My Khe,3,2120
+687,Da Nang,Son Tra,3,2099
+688,Da Nang,My Khe,5,6363
+689,Da Nang,Son Tra,4,4478
+690,Da Nang,My Khe,3,1600
+691,Da Nang,My Khe,3,2287
+692,Da Nang,Son Tra,5,17367
+693,Da Nang,Son Tra,3,2292
+694,Da Nang,Son Tra,3,2336
+695,Da Nang,My Khe,5,18804
+696,Da Nang,Son Tra,3,1874
+697,Da Nang,Son Tra,4,3284
+698,Da Nang,Son Tra,4,5571
+699,Da Nang,My Khe,4,3714
+700,Da Nang,Son Tra,3,1840
+701,Da Nang,Son Tra,3,2384
+702,Da Nang,Son Tra,3,2624
+703,Da Nang,My Khe,3,2268
+704,Da Nang,My Khe,5,14530
+705,Da Nang,Son Tra,3,2148
+706,Da Nang,Son Tra,4,3982
+707,Hoi An,Cam An,4,2926
+708,Hoi An,Ancient Town,4,4831
+709,Hoi An,Ancient Town,3,2161
+710,Hoi An,Cam An,3,2274
+711,Hoi An,Ancient Town,5,11948
+712,Hoi An,Ancient Town,4,4389
+713,Hoi An,Cam An,4,4334
+714,Hoi An,Cam An,5,8355
+715,Hoi An,Cam An,4,3693
+716,Hoi An,Ancient Town,3,2505
+717,Hoi An,Ancient Town,4,5146
+718,Hoi An,Cam An,2,701
+719,Hoi An,Ancient Town,4,6172
+720,Hoi An,Ancient Town,5,10929
+721,Hoi An,Ancient Town,3,1926
+722,Hoi An,Cam An,3,1810
+723,Jakarta,Thamrin,2,811
+724,Jakarta,Thamrin,5,18605
+725,Jakarta,Thamrin,2,795
+726,Jakarta,Menteng,2,1342
+727,Jakarta,Kemang,3,2667
+728,Jakarta,Kemang,2,1301
+729,Jakarta,Menteng,3,2758
+730,Jakarta,Menteng,3,2013
+731,Jakarta,Menteng,3,1760
+732,Jakarta,Menteng,2,969
+733,Jakarta,Kemang,2,1236
+734,Jakarta,Thamrin,3,2808
+735,Jakarta,Menteng,2,778
+736,Jakarta,Kemang,4,4777
+737,Jakarta,Thamrin,3,1745
+738,Jakarta,Thamrin,3,2361
+739,Jakarta,Thamrin,3,1508
+740,Jakarta,Kemang,3,1683
+741,Jakarta,Thamrin,2,1016
+742,Jakarta,Menteng,2,882
+743,Jakarta,Kemang,5,12400
+744,Jakarta,Menteng,2,804
+745,Jakarta,Kemang,3,1729
+746,Jakarta,Kemang,3,1931
+747,Jakarta,Menteng,3,2608
+748,Jakarta,Thamrin,3,2953
+749,Jakarta,Menteng,4,3657
+750,Jakarta,Menteng,4,3697
+751,Jakarta,Menteng,3,1971
+752,Jakarta,Kemang,3,1337
+753,Jakarta,Menteng,3,2576
+754,Jakarta,Kemang,3,2864
+755,Jakarta,Menteng,4,6932
+756,Jakarta,Thamrin,3,2285
+757,Jakarta,Thamrin,3,1418
+758,Jakarta,Kemang,5,12805
+759,Jakarta,Kemang,2,1171
+760,Jakarta,Thamrin,3,1355
+761,Jakarta,Thamrin,4,5682
+762,Jakarta,Kemang,3,2162
+763,Yogyakarta,Prawirotaman,2,745
+764,Yogyakarta,Prawirotaman,2,979
+765,Yogyakarta,Prawirotaman,5,11000
+766,Yogyakarta,Malioboro,2,695
+767,Yogyakarta,Malioboro,3,1963
+768,Yogyakarta,Malioboro,2,906
+769,Yogyakarta,Malioboro,2,828
+770,Yogyakarta,Malioboro,4,3646
+771,Yogyakarta,Malioboro,3,1609
+772,Yogyakarta,Prawirotaman,4,3589
+773,Yogyakarta,Prawirotaman,4,4619
+774,Yogyakarta,Prawirotaman,4,4220
+775,Yogyakarta,Malioboro,2,1073
+776,Yogyakarta,Malioboro,5,13441
+777,Yogyakarta,Prawirotaman,4,2749
+778,Yogyakarta,Prawirotaman,3,1051
+779,Yogyakarta,Prawirotaman,4,4642
+780,Yogyakarta,Prawirotaman,5,12914
+781,Siem Reap,Sala Kamreuk,3,1209
+782,Siem Reap,Svay Dangkum,5,7557
+783,Siem Reap,Svay Dangkum,3,1223
+784,Siem Reap,Svay Dangkum,4,4952
+785,Siem Reap,Sala Kamreuk,5,15946
+786,Siem Reap,Sala Kamreuk,3,1939
+787,Siem Reap,Svay Dangkum,4,3819
+788,Siem Reap,Sala Kamreuk,3,2462
+789,Siem Reap,Svay Dangkum,4,4472
+790,Siem Reap,Svay Dangkum,4,3045
+791,Siem Reap,Svay Dangkum,3,1359
+792,Siem Reap,Svay Dangkum,3,2107
+793,Siem Reap,Sala Kamreuk,3,1940
+794,Siem Reap,Svay Dangkum,2,1017
+795,Siem Reap,Sala Kamreuk,2,558
+796,Siem Reap,Sala Kamreuk,3,1044
+797,Siem Reap,Svay Dangkum,2,956
+798,Siem Reap,Svay Dangkum,3,2098
+799,Siem Reap,Sala Kamreuk,4,3082
+800,Siem Reap,Svay Dangkum,4,5775
