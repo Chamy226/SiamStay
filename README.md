@@ -6,6 +6,12 @@ SiamStay is a Southeast Asia online travel agency whose Q3 2026 sessions grew wh
 
 Phase 1 is the measurement contract and the raw extract only. ETL and the database are Phase 2 and are intentionally not in this repository yet.
 
+## Day 1 sanity check
+
+The raw extract is checked before anything is modeled. This pass confirms the file grain: 300 extra duplicate `session_id` values, and 1,206 blank `device_type` values in the session file (1,200 distinct sessions, plus copies of those rows).
+
+![Day 1 sanity check of the raw session file and bookings.csv](docs/images/day1-sanity-check.jpg)
+
 ## Folder structure
 
 ```
@@ -23,7 +29,9 @@ Phase 1 is the measurement contract and the raw extract only. ETL and the databa
 ├── docs/
 │   ├── PRD.md
 │   ├── DATA_DICTIONARY.md
-│   └── answer_key.md      # local ground truth, gitignored
+│   ├── answer_key.md      # local ground truth, gitignored
+│   └── images/
+│       └── day1-sanity-check.jpg
 └── scripts/
     └── generate_data.py
 ```
